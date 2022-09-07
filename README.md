@@ -22,3 +22,18 @@ Under this analysis, the general question is What factors are important for us t
 Is there any association between patient's gender and show up for their scheduled appointment?
 Does age of the patient affect their showing up for the scheduled appointment?
 Is scholarship a factor to determine if a patient will show up for their scheduled appointment?
+
+
+Result
+
+In the analysis we try to provide answers to the following research questions:
+
+Is there any association between patient's gender and show up for their scheduled appointment?
+Does age of the patient affect their showing up for the scheduled appointment?
+Is scholarship a factor to determine if a patient will show up for their scheduled appointment?
+We examine, the relationship among the variables and found out that:
+
+There exist association between patient's gender and noshow.
+Analysing patient's age and their response to scheduled appointment, we observe that age is a factor in determining whether a patient will show or not show for an apopintment. As patients of certain age category responded positively to appointment than other.
+Scholarship feature could help us in determining if a patient will show up for the visit after an appointment.
+However, further analysing is required to establish further causal relationship among the variables. .
